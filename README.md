@@ -21,6 +21,6 @@ Twitter: [@HeyJKSN](https://www.twitter.com/HeyJKSN)
 
 Business Email: [heyjksn.business@outlook.com](mailto:heyjksn.business@outlook.com)
 
-Discord: jksn#1778
+Discord: jksn#0001
 
 ### Thanks for dropping by!
