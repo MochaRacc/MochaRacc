@@ -1,21 +1,22 @@
 <div><center>
     <p align="center"><img src="https://avatars.githubusercontent.com/heyjksn" height="150" width="150"></p>
-    <h3 align="center">Nuxi/Jackson/HeyJKSN・A Bisexual Protogen</h3>
+    <h3 align="center">Jackson/HeyJKSN</h3>
 </div></center>
 
 # Greetings 👋
 My name is Jackson, but on the internet, I'm **HeyJKSN**.
 
-I'm a 17 y/o Protogen who has learnt how to code in HTML and CSS to make a [website](https://www.heyjksn.tk) as well as make YouTube videos and stream on Twitch!
+I'm a 17 y/o Bisexual who has learnt how to code in HTML and CSS to make a [website](https://www.heyjksn.tk) as well as make YouTube videos.
 
 ##
 ### Get to know me a little
 - My pronouns are he/they, and I'm 17 years of age.
-- I'm working a part time job on Wednesdays and Fridays (and the occasional Saturday)
-- I've contributed to some projects on the internet, prime example, I had a [discord](https://www.discord.com) bot called PlayCoins, it went nowhere sadly.
-- My birthday is June 12 if you forget
+- I am Bisexual, so yes, I like men (and women too)
+- I'm working a part time job on Wednesdays and Fridays
+- I've contributed to some projects on the internet: PlayCoins, Aurora Forums and more.
+- 12/06 is my day, birthday to be specific
 - I'm Australian, meaning that my world is 100% upside down 🙃
-- My proto's name is Nuxi, it was hard picking one, but there is some backstory into the name.
+- I've made bad and good financial decitions
 ##
 ### Contact
 Twitter: [@HeyJKSN](https://www.twitter.com/HeyJKSN)
