@@ -6,7 +6,7 @@
 # Greetings 👋
 My name is Jackson, but on the internet, I'm **HeyJKSN**.
 
-I'm a 17 y/o male who has learnt how to code in HTML and CSS to make a [website](https://www.heyjksn.tk) as well as make YouTube videos.
+I'm a 17 y/o male who has a woman as his OC and learnt how to code in HTML and CSS to make a [website](https://www.heyjksn.tk) as well as make YouTube videos.
 
 ##
 ### Get to know me a little
@@ -17,6 +17,7 @@ I'm a 17 y/o male who has learnt how to code in HTML and CSS to make a [website]
 - 12/06 is my day, birthday to be specific
 - I'm Australian, meaning that my world is 100% upside down 🙃
 - I've made bad and good financial decitions
+- I have a woman as my OC, people will complain, but it's alright
 ##
 ### Contact
 Twitter: [@HeyJKSN](https://www.twitter.com/HeyJKSN)
