@@ -6,12 +6,12 @@
 # Greetings 👋
 My name is Jackson, but on the internet, I'm **HeyJKSN**.
 
-I'm a 17 y/o male who has a woman as his OC and learnt how to code in HTML and CSS to make a [website](https://www.heyjksn.tk) as well as make YouTube videos.
+<b> Co-Owner of Sylphix Browser - a project by RollMyst & HeyJKSN </b>
 
 ##
-### Get to know me a little
-- My pronouns are he/him, and I'm 17 years of age.
-- I'm straight
+### Bio
+- My pronouns are he/they, and I'm 17 years of age.
+- I'm bisexual
 - I'm working a part time job on Wednesdays and Fridays and some Saturdays
 - I've contributed to some projects on the internet: PlayCoins, Aurora Forums and more.
 - 12/06 is my day, birthday to be specific
