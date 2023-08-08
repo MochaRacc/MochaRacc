@@ -1,23 +1,25 @@
 <div><center>
     <p align="center"><img src="https://avatars.githubusercontent.com/heyjksn" height="150" width="150"></p>
-    <h3 align="center">Jackson/HeyJKSN</h3>
+    <h3 align="center">some dumbass crow on the internet 💜</h3>
 </div></center>
 
-# Greetings 👋
-My name is Jackson, but on the internet, I'm **HeyJKSN**.
-
-<b> Co-Owner of Sylphix Browser - a project by RollMyst & HeyJKSN </b>
+# heyo
+im jackson, also known as **HeyJKSN** in these parts of town
+## projects ive worked on:
+- my own website
+- playcoins (old discord bot that got killed, my fault)
+- sylphix search engine 
 
 ##
 ### Bio
 - he/they
-- Bisexual
+- gay (mlm/male loving male/multi level marketing)
 ##
-### Contact
-Twitter: [@HeyJKSN](https://www.twitter.com/HeyJKSN)
+### shoot me a message
+literal unicode (x): [@HeyJKSN](https://www.twitter.com/HeyJKSN)
 
-Business Email: [heyjksn.business@outlook.com](mailto:heyjksn.business@outlook.com)
+Business Email: [heyjksn@mail.com](mailto:heyjksn@mail.com)
 
-Discord: jksn#0001
+Discord: heyjksn
 
 ### Thanks for dropping by!
