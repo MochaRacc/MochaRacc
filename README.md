@@ -6,5 +6,5 @@
 
 I'm an 19-year-old furry & gunzel from Victoria, passionate about exploring Melbourne's Public Transport. Here are a couple of projects I'm currently working on:
 
-- [MochaTheRaccoon.com](https://mochara.cc) - My main website where you can find all my socials (like Twitter, YouTube), think of it as a Linktree or Carrd
+- [mochara.cc](https://mochara.cc) - My main website where you can find all my socials (like Twitter, YouTube), think of it as a Linktree or Carrd
 </div>
