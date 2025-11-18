@@ -7,7 +7,7 @@
 I'm a 20-year-old furry & gunzel from Victoria, passionate about exploring Melbourne's Public Transport. Here are a couple of projects I'm currently working on:
 
 - [mochara.cc](https://mochara.cc) - My main website where you can find all my socials (like Twitter, YouTube), think of it as a Linktree or Carrd
-- [ptft.info](https://ptft.info) - My fictional Transport Fever 2 operator, yes, everything is fictional. 
+- [transnetpt.com](https://transnetpt.com) - My fictional Transport Fever 2 operator, yes, everything is fictional. 
 
   <img src="https://mochara.cc/racc-boi.svg" height="50" width="50" style="object-fit: cover;" title="my logo">
 </div>
